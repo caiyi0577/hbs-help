@@ -1,6 +1,6 @@
 ---
-description: 简介
 icon: windows
+description: 简介
 ---
 
 # 系统使用环境
@@ -13,7 +13,7 @@ icon: windows
 
 推荐浏览器：
 
-![](<.gitbook/assets/image (13).png>)
+![](<.gitbook/assets/image (13) (1).png>)
 
 chrome浏览器 [https://www.google.com/intl/zh-CN/chrome/](https://www.google.com/intl/zh-CN/chrome/)
 
@@ -21,19 +21,19 @@ chrome浏览器 [https://www.google.com/intl/zh-CN/chrome/](https://www.google.c
 
 **管理APP端：**
 
-<figure><img src=".gitbook/assets/image (12).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt="" width="199"><figcaption></figcaption></figure>
 
 当前支持iOS与Android端使用，可在任意APP商店下载使用，与web端同步数据。
 
 **住客小程序：**
 
-<figure><img src=".gitbook/assets/image (14).png" alt="" width="206"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1).png" alt="" width="206"><figcaption></figcaption></figure>
 
 当前支持微信小程序平台，可通过手机号与密码、验证码、一键登录等方式登录使用
 
 管理APP端：
 
-<figure><img src=".gitbook/assets/image (15).png" alt="" width="204"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1).png" alt="" width="204"><figcaption></figcaption></figure>
 
 当前支持iOS与Android端使用，目前仅限安装人员等内部人员使用
 
