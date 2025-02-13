@@ -19,3 +19,6 @@
   * [创建房间](gong-yu-jian-she/chuang-jian-fang-jian.md)
 * [设备绑定](she-bei-bang-ding/README.md)
   * [门锁网关绑定](she-bei-bang-ding/men-suo-wang-guan-bang-ding.md)
+  * [门锁绑定](she-bei-bang-ding/men-suo-bang-ding.md)
+  * [绑定水电表采集器](she-bei-bang-ding/bang-ding-shui-dian-biao-cai-ji-qi.md)
+  * [绑定智能水表](she-bei-bang-ding/bang-ding-zhi-neng-shui-biao.md)
